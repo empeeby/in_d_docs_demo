@@ -1,4 +1,4 @@
-*The following page is adapted from the PyTerrier documentation pages to include an interactive demonstration from the in_d system. The rest
+*The following page is adapted from the PyTerrier documentation pages to include an interactive demonstration from the in_d system. The rest*
 
 Terrier Retrieval
 -----------------
