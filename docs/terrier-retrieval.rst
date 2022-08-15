@@ -5,8 +5,6 @@ BatchRetrieve is one of the most commonly used PyTerrier objects. It represents 
 in which queries are mapped to retrieved documents. BatchRetrieve uses a pre-existing Terrier index data
 structure, typically saved on disk.
 
-This is a test does it work?
-
 
 Typical usage::
 
