@@ -1,8 +1,8 @@
 *The following page is adapted from the PyTerrier documentation pages to include an interactive demonstration from the in_d system.* 
 
-`Jump to demo <#in-d-interactive-demonstration-pyterrier-batchretrieve>_`
+:ref:`Jump to demo <_pt_retrieval_demo_label>`
 
-`About this in_d demo site <en/latest/in_d-about.html>_`
+:ref:`_in_d_about`
 
 Terrier Retrieval
 -----------------
@@ -40,14 +40,16 @@ BatchRetrieve
     :members: transform, from_dataset
 
 
-in_d Interactive Demonstration: PyTerrier BatchRetrieve
+.. _pt_retrieval_demo_label:
+
+in_d Interactive Demonstration
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. the following block creates a div within the generated output, which is then populated with the demo by the js script included.
 
 .. raw:: html
 
-    <div class="in_d" data-endpoint="pt_retrieval"></div>
+    <div class="in_d" data-endpoint="pt_retrieval" data-title="PyTerrier BatchRetrieve Demo"></div>
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/empeeby/rtd-test@dev5/docs/source/_static/css/in-d_mini.css" type="text/css" />
     <script src="https://cdn.jsdelivr.net/gh/empeeby/rtd-test@dev5/docs/source/_static/js/in-d_mini.js"></script>
