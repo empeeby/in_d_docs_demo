@@ -1,8 +1,8 @@
 *The following page is adapted from the PyTerrier documentation pages to include an interactive demonstration from the in_d system.* 
 
-:ref:`Jump to demo <_pt_retrieval_demo_label>`
+:ref:`Jump to demo <pt_retrieval_demo_label>`
 
-:ref:`_in_d_about`
+:ref:`in_d_about`
 
 Terrier Retrieval
 -----------------
