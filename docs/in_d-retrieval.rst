@@ -1,4 +1,8 @@
-*The following page is adapted from the PyTerrier documentation pages to include an interactive demonstration from the in_d system. The rest*
+*The following page is adapted from the PyTerrier documentation pages to include an interactive demonstration from the in_d system.* 
+
+`Jump to demo <#in-d-interactive-demonstration-pyterrier-batchretrieve>_`
+
+`About this in_d demo site <en/latest/in_d-about.html>_`
 
 Terrier Retrieval
 -----------------
