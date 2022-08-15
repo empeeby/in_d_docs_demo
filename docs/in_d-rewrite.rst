@@ -1,4 +1,11 @@
-Query Rewriting & Expansion
+*The following page is adapted from the PyTerrier documentation pages to include two interactive demonstration from the in_d system.* 
+
+:ref:`Jump to SDM demo <pt_sdm_demo_label>`
+:ref:`Jump to Query Expansion demo <pt_qe_demo_label>`
+
+:ref:`in_d_about`
+
+in_d Demo Page: Query Rewriting & Expansion
 ---------------------------
 
 Query rewriting refers to changing the formulation of the query in order to improve the effectiveness of the
@@ -46,6 +53,21 @@ Example::
 References:
  - A Markov Random Field Model for Term Dependencies. Donald Metzler and W. Bruce Croft. In Proceedings of SIGIR 2005. 
  - Incorporating Term Dependency in the DFR Framework. Jie Peng, Craig Macdonald, Ben He, Vassilis Plachouras, Iadh Ounis. In Proceedings of SIGIR 2007. July 2007. Amsterdam, the Netherlands. 2007.
+
+.. _pt_sdm_demo_label:
+
+in_d Interactive SDM Demonstration
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. the following block creates a div within the generated output, which is then populated with the demo by the js script included.
+
+.. raw:: html
+
+    <div class="in_d" data-endpoint="pt_sdm" data-title="PyTerrier SDM Demo"></div>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/empeeby/rtd-test@dev5/docs/source/_static/css/in-d_mini.css" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/gh/empeeby/rtd-test@dev5/docs/source/_static/js/in-d_mini.js"></script>
+
 
 Bo1QueryExpansion
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -111,6 +133,21 @@ AxiomaticQE
 References:
  - Hui Fang, Chang Zhai.: Semantic term matching in axiomatic approaches to information retrieval. In: Proceedings of the 29th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, pp. 115–122. SIGIR 2006. ACM, New York (2006).
  - Peilin Yang and Jimmy Lin, Reproducing and Generalizing Semantic Term Matching in Axiomatic Information Retrieval. In Proceedings of ECIR 2019.
+
+.. _pt_qe_demo_label:
+
+in_d Interactive Query Expansion Demonstration
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. the following block creates a div within the generated output, which is then populated with the demo by the js script included.
+
+.. raw:: html
+
+    <div class="in_d" data-endpoint="pt_query_expansion" data-title="PyTerrier Query Expansion Demo"></div>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/empeeby/rtd-test@dev5/docs/source/_static/css/in-d_mini.css" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/gh/empeeby/rtd-test@dev5/docs/source/_static/js/in-d_mini.js"></script>
+
 
 Combining Query Formulations
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

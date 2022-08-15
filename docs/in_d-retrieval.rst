@@ -4,7 +4,7 @@
 
 :ref:`in_d_about`
 
-Terrier Retrieval
+in_d Demo Page: Terrier Retrieval
 -----------------
 
 BatchRetrieve is one of the most commonly used PyTerrier objects. It represents a retrieval transformation, 

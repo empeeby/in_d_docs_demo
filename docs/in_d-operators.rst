@@ -1,4 +1,11 @@
-Operators on Transformers
+*The following page is adapted from the PyTerrier documentation pages to include an interactive demonstration from the in_d system.* 
+
+:ref:`Jump to demo <pt_ops_demo_label>`
+
+:ref:`in_d_about`
+
+
+in_d Demo Page: Operators on Transformers
 =========================
 
 Part of the power of PyTerrier comes from the ease in which researchers can formulate complex retrieval pipelines. 
@@ -365,3 +372,16 @@ the reranker. We also cache the outcome of the Experiment, so that another evalu
 
 By default, Pyterrier caches results to `~/.pyterrier/transformer_cache/`.
 
+.. _pt_ops_demo_label:
+
+in_d Interactive Transformer Operators Demonstration
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. the following block creates a div within the generated output, which is then populated with the demo by the js script included.
+
+.. raw:: html
+
+    <div class="in_d" data-endpoint="pt_transformer_operators" data-title="PyTerrier Transformer Operators Demo"></div>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/empeeby/rtd-test@dev5/docs/source/_static/css/in-d_mini.css" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/gh/empeeby/rtd-test@dev5/docs/source/_static/js/in-d_mini.js"></script>
