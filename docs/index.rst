@@ -3,6 +3,16 @@ Welcome to PyTerrier's documentation!
 
 .. toctree::
    :maxdepth: 1
+   :caption: in_d Demonstration Pages
+
+   in_d-about
+   in_d-retrieval
+   in_d-rewrite
+   in_d-operators
+
+
+.. toctree::
+   :maxdepth: 1
    :caption: Guides
 
    installation
