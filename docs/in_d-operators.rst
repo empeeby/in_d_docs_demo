@@ -385,5 +385,5 @@ in_d Interactive Transformer Operators Demonstration
 
     <div class="in_d" data-endpoint="pt_transformer_operators" data-title="PyTerrier Transformer Operators Demo"></div>
 
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/empeeby/ind_fe@cdn_stable/mini/in-d_mini.css" type="text/css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/empeeby/ind_fe@cdn_stable/mini/in-d_mini.css" type="text/css"/>
     <script src="https://cdn.jsdelivr.net/gh/empeeby/ind_fe@cdn_stable/mini/in-d_mini.js"></script>
