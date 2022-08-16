@@ -1,3 +1,5 @@
+.. _in_d_operators:
+
 *The following page is adapted from the PyTerrier documentation pages to include an interactive demonstration from the in_d system.* 
 
 :ref:`Jump to demo <pt_ops_demo_label>`
@@ -383,5 +385,5 @@ in_d Interactive Transformer Operators Demonstration
 
     <div class="in_d" data-endpoint="pt_transformer_operators" data-title="PyTerrier Transformer Operators Demo"></div>
 
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/empeeby/rtd-test@dev5/docs/source/_static/css/in-d_mini.css" type="text/css" />
-    <script src="https://cdn.jsdelivr.net/gh/empeeby/rtd-test@dev5/docs/source/_static/js/in-d_mini.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/empeeby/ind_fe@cdn_stable/mini/in-d_mini.css" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/gh/empeeby/ind_fe@cdn_stable/mini/in-d_mini.js"></script>

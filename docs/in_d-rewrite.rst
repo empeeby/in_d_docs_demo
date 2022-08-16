@@ -1,3 +1,5 @@
+.. _in_d_rewrite:
+
 *The following page is adapted from the PyTerrier documentation pages to include two interactive demonstration from the in_d system.* 
 
 :ref:`Jump to SDM demo <pt_sdm_demo_label>`
@@ -64,9 +66,6 @@ in_d Interactive SDM Demonstration
 .. raw:: html
 
     <div class="in_d" data-endpoint="pt_sdm" data-title="PyTerrier SDM Demo"></div>
-
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/empeeby/rtd-test@dev5/docs/source/_static/css/in-d_mini.css" type="text/css" />
-    <script src="https://cdn.jsdelivr.net/gh/empeeby/rtd-test@dev5/docs/source/_static/js/in-d_mini.js"></script>
 
 
 Bo1QueryExpansion
@@ -145,8 +144,8 @@ in_d Interactive Query Expansion Demonstration
 
     <div class="in_d" data-endpoint="pt_query_expansion" data-title="PyTerrier Query Expansion Demo"></div>
 
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/empeeby/rtd-test@dev5/docs/source/_static/css/in-d_mini.css" type="text/css" />
-    <script src="https://cdn.jsdelivr.net/gh/empeeby/rtd-test@dev5/docs/source/_static/js/in-d_mini.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/empeeby/ind_fe@cdn_stable/mini/in-d_mini.css" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/gh/empeeby/ind_fe@cdn_stable/mini/in-d_mini.js"></script>
 
 
 Combining Query Formulations
