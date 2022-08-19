@@ -22,9 +22,9 @@ If you are here to trial the in_d system as part of an evaluation survey I'd lik
 
 The Demos 
 ------------------
-:ref:`in_d_retrieval` (1 demo)
-:ref:`in_d_rewrite` (2 demos)
-:ref:`in_d_operators` (1 demo)
+:ref:`in_d-retrieval` (1 demo)
+:ref:`in_d-rewrite` (2 demos)
+:ref:`in_d-operators` (1 demo)
 
 
 .. PyTerrier Primer
