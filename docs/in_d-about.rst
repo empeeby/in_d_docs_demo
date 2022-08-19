@@ -27,19 +27,19 @@ The Demos
 :ref:`in_d_operators` (1 demo)
 
 
-PyTerrier Primer
--------------------
-For evaluation participants who may be new to Information Retrieval and/or PyTerrier, this is a quick primer with some background knowledge that may be helpful.
+.. PyTerrier Primer
+.. -------------------
+.. For evaluation participants who may be new to Information Retrieval and/or PyTerrier, this is a quick primer with some background knowledge that may be helpful.
 
-PyTerrier is a declarative platform for information retrieval experiments in Python. It uses the Java-based Terrier information retrieval platform internally to support indexing and retrieval operations.
+.. PyTerrier is a declarative platform for information retrieval experiments in Python. It uses the Java-based Terrier information retrieval platform internally to support indexing and retrieval operations.
 
-Wikipedia definition of Information Retrieval:
-    Information retrieval (IR) in computing and information science is the process of obtaining information system resources that are relevant to an information need from a collection of those resources. Searches can be based on full-text or other content-based indexing. Information retrieval is the science[1] of searching for information in a document, searching for documents themselves, and also searching for the metadata that describes data, and for databases of texts, images or sounds.
+.. Wikipedia definition of Information Retrieval:
+..     Information retrieval (IR) in computing and information science is the process of obtaining information system resources that are relevant to an information need from a collection of those resources. Searches can be based on full-text or other content-based indexing. Information retrieval is the science[1] of searching for information in a document, searching for documents themselves, and also searching for the metadata that describes data, and for databases of texts, images or sounds.
 
-    Automated information retrieval systems are used to reduce what has been called information overload. An IR system is a software system that provides access to books, journals and other documents; stores and manages those documents. Web search engines are the most visible IR applications. 
+..     Automated information retrieval systems are used to reduce what has been called information overload. An IR system is a software system that provides access to books, journals and other documents; stores and manages those documents. Web search engines are the most visible IR applications. 
 
-The PyTerrier data model (:ref:`datamodel.md`)
+.. The PyTerrier data model (:ref:`datamodel.md`)
 
-There are 4 base types of process that
+.. There are 4 base types of process that
 
 
