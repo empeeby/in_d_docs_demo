@@ -144,8 +144,8 @@ in_d Interactive Query Expansion Demonstration
 
     <div class="in_d" data-endpoint="pt_query_expansion" data-title="PyTerrier Query Expansion Demo"></div>
 
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/empeeby/ind_fe@cdn/mini/in-d_mini.css" type="text/css" />
-    <script src="https://cdn.jsdelivr.net/gh/empeeby/ind_fe@cdn/mini/in-d_mini.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/empeeby/ind_fe@deployment/mini/in-d_mini.css" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/gh/empeeby/ind_fe@deployment/mini/in-d_mini.js"></script>
 
 
 Combining Query Formulations
